@@ -1,5 +1,5 @@
 # [BuildEleven](https://share.streamlit.io/akspa28/buildeleven/main/app.py)
-A streamlit data app that lets you create your own fantasy cricket team and also gives suggestions for the best players of both teams based on the previous data of the players.
+A **streamlit** data app that lets you create your own **Fantasy Cricket Team** and also gives suggestions for the best players of both teams based on the previous data of the players.
 This app calculates the value of a particular player according to the point system in the Dream11 fantasy cricket point system.
 
 ### Check the Point System : [Dream11](https://www.dream11.com/games/point-system)
