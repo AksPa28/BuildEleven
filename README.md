@@ -1,4 +1,4 @@
-# BuildEleven [(Link)](https://github.com/AksPa28/BuildEleven)
+# BuildEleven [(Link)](https://share.streamlit.io/akspa28/buildeleven/main/app.py)
 A streamlit data app that lets you create your Dream 11 cricket team based on players' past data
 
 ## Tech Stack
